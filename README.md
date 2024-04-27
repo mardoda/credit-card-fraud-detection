@@ -40,3 +40,4 @@ Initial explorations into the data involved analyzing the "Time" and "Amount" fe
 ## Conclusion
 This project is a comprehensive attempt to tackle the growing issue of credit card fraud using advanced machine learning and data visualization techniques. The findings and methodologies developed here aim to enhance the predictive capabilities of financial institutions in combating fraud.
 
+Full Report Analysis: [Credit Card Fraud Detection.pdf](Credit%20Card%20Fraud%20Detection.pdf)
